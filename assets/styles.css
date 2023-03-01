@@ -1,0 +1,86 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    background-color: rgba(143, 142, 143, 0.811)
+}
+
+.card{
+    background-color: rgb(54, 28, 54);
+    color: white;
+    height: 315px;
+}
+
+.botones:hover{
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+
+.botones{
+    background-color: lightpink;
+    color:black;
+    text-align: center;
+    border-style: dotted;
+    border-color:rgb(187, 21, 159);
+}
+
+
+.nav-link{
+    color: rgb(231, 209, 236);
+}
+
+#MiNombre{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+    background-color:rgb(0, 0, 0);
+    padding:0.5%
+}
+
+
+.Portfolio{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+    background-color:#ce9898;
+    padding:1%;
+}
+
+.sobremi{
+    color: white;
+    background-color: #ce9898;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 1%;
+}
+
+.contacto{
+    color: white;
+    background-color: rgb(31, 30, 30);
+    padding: 1%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#DireccionYredes{
+    background-color: rgb(0, 0, 0);
+    color: #ce9898;
+    padding:1%;
+}
+
+footer{
+background-color: secondary;
+color: black;
+font-size: medium;
+}
+
+.bi{
+    color: white;
+    padding: 20px;
+}
+
+.bi:hover{
+    color: black;
+    background-color:white;
+    border-radius: 50px;
+}
